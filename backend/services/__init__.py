@@ -1,0 +1,6 @@
+from services.user_service import UserService
+from services.doctor_service import DoctorService
+from services.patient_service import PatientService
+from services.department_service import DepartmentService
+from services.appointment_service import AppointmentService
+from services.treatment_service import TreatmentService
